@@ -1,5 +1,4 @@
 const Discord = require("discord.js")
-//Você irá puxar o nome da cor na qual você desejar juntamente com o arquivo que ele está.
 const { salmão } = require("../../cores.json")
 
 exports.run = async (bot, message, args) => {
